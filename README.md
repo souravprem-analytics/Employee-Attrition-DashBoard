@@ -1,4 +1,4 @@
-# 👥 IBM HR Employee Attrition Analytics Dashboard (Excel)
+# 👥Employee Attrition Dashboard (Excel)
 
 ## 📌 Project Overview
 An interactive **Microsoft Excel HR Analytics dashboard** built on the IBM HR Employee Attrition dataset to uncover the primary drivers behind employee turnover across departments, age groups, job roles, tenure, and overtime status.
